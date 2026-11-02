@@ -107,15 +107,15 @@
 
 1. Dans l'URL `https://www.youtube.com/results?search_query=chat`, quel est le nom du paramètre ? Quelle est sa valeur ?
 
-   > _Ma réponse :_ 
+   > le paramètre est search_query et la valeur est chat
 
 2. Pourquoi le serveur plante-t-il avec `a=bonjour` ? Que faudrait-il faire pour l'éviter ?
 
-   > _Ma réponse :_ 
+   > il faut que a soit de type int, il faudrait faire une gestion d'erreur afin que si a est de type string un message d'erreur apparaisse 
 
 3. Pourquoi est-il dangereux d'afficher **tel quel** ce que l'utilisateur envoie ?
 
-   > _Ma réponse :_ 
+   > C'est une faille de sécurité car le code s'exécute tel quel
 
 ---
 
