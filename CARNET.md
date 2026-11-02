@@ -155,19 +155,19 @@
 
 1. Citez trois informations que le serveur connaît sur vous, sans que vous ayez rien rempli.
 
-   > _Ma réponse :_ 
+   > L'adresse IP, le navigateur utilisé et la langue préféré
 
 2. À quoi peut servir l'en-tête `Accept-Language` pour un site comme Wikipédia ?
 
-   > _Ma réponse :_ 
+   > Elle permet d'afficher à l'utilisateur la langue qui lui convient le mieux
 
 3. Dans l'Access log, retrouvez une requête qui a reçu un code `404`. Quelle page était demandée ?
 
-   > _Ma réponse :_ 
+   > horloge
 
 4. Après cet exercice, que pensez-vous de la notion de « navigation anonyme » ?
 
-   > _Ma réponse :_ 
+   > La navigation full anonyme n'existe pas, elle permet de ne pas avoir de cache et d'historique mais les serveurs ont les informations
 
 ---
 
