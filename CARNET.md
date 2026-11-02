@@ -139,15 +139,15 @@
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :_ 
+   > 4xx est une erreur coté utilisateur et 5xx coté serveur
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ 
+   > le navigateur fait la deuxième requête
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ 
+   > Lors d'une connexion ou inscription lorsque l'on clique sur le bouton on est souvent redirigé vers la page d'acceuil 
 
 ---
 
