@@ -101,7 +101,7 @@ def api_heure():
 
 @app.get("/horloge")
 def horloge():
-    return render_template("horloge.html")
+    return render_template("horloges.html")
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
 #  sur votre propre ordinateur (python flask_app.py)
