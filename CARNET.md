@@ -71,7 +71,7 @@
 
 1. Quelle est la différence de rôle entre le HTML et le CSS ?
 
-   > _Ma réponse :_ 
+   > Le css est le style et le HTML le fond (les informations)
 
 2. Pour afficher votre page `/presentation`, combien de fichiers le navigateur doit-il télécharger ? (Vous pourrez le vérifier à l'exercice suivant !)
 
@@ -79,7 +79,7 @@
 
 3. Pourquoi faut-il parfois faire **Ctrl + F5** pour voir les changements de CSS ?
 
-   > _Ma réponse :_ 
+   > Les navigateurs peuvent utiliser du cache donc Ctrl+F5 met a jour et supprime le cache
 
 ---
 
