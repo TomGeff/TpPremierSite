@@ -75,7 +75,7 @@
 
 2. Pour afficher votre page `/presentation`, combien de fichiers le navigateur doit-il télécharger ? (Vous pourrez le vérifier à l'exercice suivant !)
 
-   > 16
+   > 3
 
 3. Pourquoi faut-il parfois faire **Ctrl + F5** pour voir les changements de CSS ?
 
@@ -87,19 +87,19 @@
 
 1. Que signifie HTTP ? Qui envoie la **requête** et qui envoie la **réponse** ?
 
-   > _Ma réponse :_ 
+   > HyperTextTransferProtocol, la requête est envoyé par le navigateur et la réponse par le serveur
 
 2. Combien de requêtes votre page `/presentation` a-t-elle déclenchées ? Lesquelles ?
 
-   > _Ma réponse :_ 
+   > 16, presentation, style.css, FloatingActionButton.js, local-storage.js, util.js, fte-utils.js, express-fte.js, extensionShared.js, vendor.js, otherVendor.js, express-utils.js, AdobeCLean-Regular.otf, AdobeClean-Bold.otf, js.js, dom?js et js.js
 
 3. Que signifie le code `200` ? Et le code `404` de la favicon ?
 
-   > _Ma réponse :_ 
+   > 200 c'est que tout va bien et  404 que le serveur n'a rien a cette adresse
 
 4. Pourquoi les modifications faites dans l'onglet Éléments ne sont-elles pas visibles par les autres visiteurs ?
 
-   > _Ma réponse :_ 
+   > Les changements fait dans Elements ne sont que en local, lorsqu'on rafraichit tout redeviens comment avant
 
 ---
 
