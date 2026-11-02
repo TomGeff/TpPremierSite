@@ -43,15 +43,15 @@
 
 1. Quelle est la différence entre ce que le serveur **envoie** et ce que le navigateur **affiche** ?
 
-   > _Ma réponse :_ 
+   > Le serveur envoie le code html brut et le navigateur l'interprète 
 
 2. À quoi servent les balises `<h1>`, `<p>`, `<ul>` et `<li>` ?
 
-   > _Ma réponse :_ 
+   > `<h1>` est un titre principal, `<p>` un paragraphe, `<ul>` le titre de la liste et `<li>` les éléments de la liste
 
 3. Pourquoi l'image s'affiche-t-elle alors qu'elle n'est pas sur votre serveur ?
 
-   > _Ma réponse :_ 
+   > Elle va chercher l'image sur sur le serveur en ligne qui l'héberge ici wikimedia
 
 ---
 
