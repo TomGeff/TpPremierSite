@@ -59,11 +59,11 @@
 
 1. Pourquoi est-ce une bonne idée de séparer le code Python et le HTML ? (Pensez à une équipe avec un développeur et un graphiste.)
 
-   > _Ma réponse :_ 
+   > C'est mieux afin que le développeur et le graphiste travail sur deux fichiers bien distincts pour pas génerer un conflit 
 
 2. Les `{{ prenom }}` sont-ils remplacés par le serveur ou par le navigateur ? Comment l'avez-vous vérifié ?
 
-   > _Ma réponse :_ 
+   > Ils sont remplacés par le serveur. Lorsque l'on fait Crtl+U on voit le code sources et le {{ prenom }} est déjà remplacé 
 
 ---
 
