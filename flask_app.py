@@ -32,6 +32,10 @@ def presentation():
 def loisirs():
     return "J'aime la f1 et les robots"
 
+@app.get("/loisirsd")
+def loisirs():
+    return "J'aime la f1 et les robots"
+
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
 #  sur votre propre ordinateur (python flask_app.py)
